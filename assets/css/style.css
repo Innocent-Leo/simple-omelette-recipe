@@ -141,7 +141,7 @@ td:nth-child(2) {
   font-weight: 700;
 }
 
-@media (min-width: 426px) {
+@media (min-width: 450px) {
   .card {
     width: 80%;
     max-width: 800px;
